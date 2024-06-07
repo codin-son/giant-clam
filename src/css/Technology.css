@@ -1,0 +1,37 @@
+.swiper-pagination-bullet {
+  background-color: white !important;
+  opacity: 1;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: white !important;
+  width: 40px;
+  border-radius: 4px;
+}
+
+.cyan-fade {
+  /* background-image: linear-gradient(to top, #001d3d, #003d63, #006189, #0088ad, #00b0ce); */
+  background-image: linear-gradient(
+    to bottom,
+    #67e8f9,
+    #3fb0cf,
+    #227ba0,
+    #0e496f,
+    #001d3d
+  );
+}
+
+.grid-gradient {
+    /* background-color:#999eff;
+background-image:
+radial-gradient(at 87% 53%, hsla(244,90%,72%,1) 0px, transparent 50%),
+radial-gradient(at 74% 5%, hsla(224,96%,76%,1) 0px, transparent 50%),
+radial-gradient(at 0% 0%, hsla(358,88%,75%,1) 0px, transparent 50%),
+radial-gradient(at 66% 78%, hsla(322,76%,75%,1) 0px, transparent 50%),
+radial-gradient(at 19% 86%, hsla(298,61%,68%,1) 0px, transparent 50%),
+radial-gradient(at 52% 35%, hsla(307,88%,62%,1) 0px, transparent 50%); */
+/* background-image: linear-gradient(to right top, #86198f, #862aa1, #8439b4, #7e47c6, #7654d9, #6662e5, #536fef, #397bf7, #0688f7, #0093f4, #009cef, #0ea5e9); */
+/* background-image: linear-gradient(to right top, #e879f9, #dc7dfb, #cf81fc, #c385fc, #b788fc, #ab8cfd, #9f90fd, #9493fd, #8698fe, #789dfe, #6ca1fc, #60a5fa); */
+background-image: linear-gradient(to left bottom, #e879f9, #dc7dfb, #cf81fc, #c385fc, #b788fc, #ab8cfd, #9f90fd, #9493fd, #8698fe, #789dfe, #6ca1fc, #60a5fa);
+}
+
