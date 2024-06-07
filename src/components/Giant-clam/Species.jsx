@@ -1,3 +1,8 @@
+import hipopushipopus from "/src/assets/giant-clam/960px-Hippopus_hippopus_Vanuatu_01.jpg";
+import tridacna_derasa from "/src/assets/giant-clam/Tridacna_derasa_1.jpg";
+import tridacna_gigas from "/src/assets/giant-clam/887px-Giant_clam_(Tridacna_gigas)_Michaelmas_Cay.jpg";
+import tridacna_mbalavuana from "/src/assets/giant-clam/tridacna-tevoroa-2.jpg";
+import tridacna_squamosa from "/src/assets/giant-clam/Tridacna_squamosa_Réunion.jpg";
 const Species = () => {
   return (
     <>
@@ -12,7 +17,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src="/src/assets/giant-clam/960px-Hippopus_hippopus_Vanuatu_01.jpg"
+              src={hipopushipopus}
               alt="Giant Clam"
               className="rounded-xl"
             />
@@ -78,7 +83,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src="/src/assets/giant-clam/Tridacna_derasa_1.jpg"
+              src={tridacna_derasa}
               alt="Giant Clam"
               className="rounded-xl"
             />
@@ -109,7 +114,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src="/src/assets/giant-clam/887px-Giant_clam_(Tridacna_gigas)_Michaelmas_Cay.jpg"
+              src={tridacna_gigas}
               alt="Giant Clam"
               className="rounded-xl"
             />
@@ -126,7 +131,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src="/src/assets/giant-clam/tridacna-tevoroa-2.jpg"
+              src={tridacna_mbalavuana}
               alt="Giant Clam"
               className="rounded-xl"
             />
@@ -137,7 +142,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src="/src/assets/giant-clam/Tridacna_squamosa_Réunion.jpg"
+              src={tridacna_squamosa}
               alt="Giant Clam"
               className="rounded-xl"
             />

@@ -1,3 +1,11 @@
+import seaweed from "/src/assets/seaweed.png";
+import scalability from "/src/assets/scalability.png";
+import underwater from "/src/assets/underwater.png";
+import rgb from "/src/assets/rgb.png";
+import fish from "/src/assets/fish.png";
+import sandClock from "/src/assets/sand-clock.png";
+
+
 const Fact = () => {
   return (
     <>
@@ -13,7 +21,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src="/src/assets/seaweed.png" />
+                  <img src={seaweed} />
                 </div>
               </div>
             </div>
@@ -29,7 +37,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src="/src/assets/scalability.png" />
+                  <img src={scalability} />
                 </div>
               </div>
             </div>
@@ -45,7 +53,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src="/src/assets/underwater.png" />
+                  <img src={underwater}/>
                 </div>
               </div>
             </div>
@@ -61,7 +69,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src="/src/assets/rgb.png" />
+                  <img src={rgb} />
                 </div>
               </div>
             </div>
@@ -76,7 +84,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src="/src/assets/fish.png" />
+                  <img src={fish} />
                 </div>
               </div>
             </div>
@@ -93,7 +101,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src="/src/assets/sand-clock.png" />
+                  <img src={sandClock} />
                 </div>
               </div>
             </div>

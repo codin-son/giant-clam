@@ -1,3 +1,4 @@
+import clam from "/src/assets/giant-clam/P9110765.JPG";
 const Hero = () => {
   return (
     <>
@@ -23,7 +24,7 @@ const Hero = () => {
         </div>
         <div className="container mx-auto mt-10">
           <img
-            src="/src/assets/giant-clam/P9110765.JPG"
+            src={clam}
             alt=""
             className="rounded-xl"
             style={{ height: "700px", width: "100%", objectFit: "cover" }}

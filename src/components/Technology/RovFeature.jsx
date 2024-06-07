@@ -1,5 +1,7 @@
 import RovCustomSwiper from "./RovCustomSwiper";
 import ThrusterViewer from "./ThrusterViewer";
+import sammy from "/src/assets/gif/sammy-no-connection-ezgif.com-crop.gif";
+import qground from "/src/assets/gif/qgroundcontrol.gif";
 const RovFeature = () => {
   return (
     <div className="mt-20">
@@ -65,7 +67,7 @@ const RovFeature = () => {
               tether system for real-time communication and power
             </div>
             <img
-              src="/src/assets/gif/sammy-no-connection-ezgif.com-crop.gif"
+              src={sammy}
               alt=""
               style={{ width: "70%", height: "70%" }}
             />
@@ -124,7 +126,7 @@ const RovFeature = () => {
             </div>
             <div>
               <img
-                src="/src/assets/gif/qgroundcontrol.gif"
+                src={qground}
                 alt=""
                 className="rounded-xl"
               />

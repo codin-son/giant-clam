@@ -1,4 +1,11 @@
 import AiSwiper from "./AiSwiper";
+import cmn from "/src/assets/yolov8-perfomance/confusion_matrix_normalized.png";
+import cm from "/src/assets/yolov8-perfomance/confusion_matrix.png";
+import f1c from "/src/assets/yolov8-perfomance/F1_curve.png";
+import pcurve from "/src/assets/yolov8-perfomance/P_curve.png";
+import prcuve from "/src/assets/yolov8-perfomance/PR_curve.png";
+import rcurve from "/src/asses/yolov8-perfomance/R_curve.png";
+import result from "/src/assets/yolov8-perfomance/results.png";
 const Ai = () => {
   return (
     <div className="mt-40">
@@ -53,7 +60,7 @@ const Ai = () => {
             <div className="carousel w-3/4">
               <div id="slide1" className="carousel-item relative w-full">
                 <img
-                  src="/src/assets/yolov8-perfomance/confusion_matrix_normalized.png"
+                  src={cmn}
                   className="w-full"
                 />
                 <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
@@ -67,7 +74,7 @@ const Ai = () => {
               </div>
               <div id="slide2" className="carousel-item relative w-full">
                 <img
-                  src="/src/assets/yolov8-perfomance/confusion_matrix.png"
+                  src={cm}
                   className="w-full"
                 />
                 <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
@@ -81,7 +88,7 @@ const Ai = () => {
               </div>
               <div id="slide3" className="carousel-item relative w-full">
                 <img
-                  src="/src/assets/yolov8-perfomance/F1_curve.png"
+                  src={f1c}
                   className="w-full"
                 />
                 <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
@@ -95,7 +102,7 @@ const Ai = () => {
               </div>
               <div id="slide4" className="carousel-item relative w-full">
                 <img
-                  src="/src/assets/yolov8-perfomance/P_curve.png"
+                  src={pcurve}
                   className="w-full"
                 />
                 <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
@@ -109,7 +116,7 @@ const Ai = () => {
               </div>
               <div id="slide5" className="carousel-item relative w-full">
                 <img
-                  src="/src/assets/yolov8-perfomance/PR_curve.png"
+                  src={prcuve}
                   className="w-full"
                 />
                 <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
@@ -123,7 +130,7 @@ const Ai = () => {
               </div>
               <div id="slide6" className="carousel-item relative w-full">
                 <img
-                  src="/src/assets/yolov8-perfomance/R_curve.png"
+                  src={rcurve}
                   className="w-full"
                 />
                 <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
@@ -137,7 +144,7 @@ const Ai = () => {
               </div>
               <div id="slide7" className="carousel-item relative w-full">
                 <img
-                  src="/src/assets/yolov8-perfomance/results.png"
+                  src={result}
                   className="w-full"
                 />
                 <div className="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">

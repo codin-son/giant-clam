@@ -4,6 +4,15 @@ import "swiper/css/pagination";
 import { Autoplay, Pagination } from "swiper/modules";
 import "/src/css/ClamColor.css";
 
+// Import images
+import giantClam1 from "/src/assets/giant-clam/P9110765.JPG";
+import giantClam2 from "/src/assets/giant-clam/P8130932.JPG";
+import giantClam3 from "/src/assets/giant-clam/P6020111.JPG";
+import giantClam4 from "/src/assets/giant-clam/IMG_6231.jpg";
+import giantClam5 from "/src/assets/giant-clam/IMG_2910.JPG";
+import giantClam6 from "/src/assets/giant-clam/P3190491.JPG";
+import mantleDetail from "/src/assets/giant-clam/mantle.jpg";
+
 const ClamColor = () => {
   return (
     <div className="mt-24">
@@ -30,43 +39,43 @@ const ClamColor = () => {
           >
             <SwiperSlide>
               <img
-                src="/src/assets/giant-clam/P9110765.JPG"
-                alt=""
+                src={giantClam1}
+                alt="Giant Clam 1"
                 className="rounded-md h-fit"
               />
             </SwiperSlide>
             <SwiperSlide>
               <img
-                src="/src/assets/giant-clam/P8130932.JPG"
-                alt=""
+                src={giantClam2}
+                alt="Giant Clam 2"
                 className="rounded-md h-fit"
               />
             </SwiperSlide>
             <SwiperSlide>
               <img
-                src="/src/assets/giant-clam/P6020111.JPG"
-                alt=""
+                src={giantClam3}
+                alt="Giant Clam 3"
                 className="rounded-md h-fit"
               />
             </SwiperSlide>
             <SwiperSlide>
               <img
-                src="/src/assets/giant-clam/IMG_6231.jpg"
-                alt=""
+                src={giantClam4}
+                alt="Giant Clam 4"
                 className="rounded-md h-fit"
               />
             </SwiperSlide>
             <SwiperSlide>
               <img
-                src="/src/assets/giant-clam/IMG_2910.JPG"
-                alt=""
+                src={giantClam5}
+                alt="Giant Clam 5"
                 className="rounded-md h-fit"
               />
             </SwiperSlide>
             <SwiperSlide>
               <img
-                src="/src/assets/giant-clam/P3190491.JPG"
-                alt=""
+                src={giantClam6}
+                alt="Giant Clam 6"
                 className="rounded-md h-fit"
               />
             </SwiperSlide>
@@ -87,8 +96,8 @@ const ClamColor = () => {
           </div>
           <div style={{ width: "100%", height: "35%" }}>
             <img
-              src="/src/assets/giant-clam/mantle.jpg"
-              alt=""
+              src={mantleDetail}
+              alt="Mantle Detail"
               className="rounded-b-none rounded-t-lg"
               style={{ width: "100%", height: "272px", objectFit: "cover" }}
             />
