@@ -4,7 +4,7 @@ import cm from "/src/assets/yolov8-perfomance/confusion_matrix.png";
 import f1c from "/src/assets/yolov8-perfomance/F1_curve.png";
 import pcurve from "/src/assets/yolov8-perfomance/P_curve.png";
 import prcuve from "/src/assets/yolov8-perfomance/PR_curve.png";
-import rcurve from "/src/asses/yolov8-perfomance/R_curve.png";
+import rcurve from "/src/assets/yolov8-perfomance/R_curve.png";
 import result from "/src/assets/yolov8-perfomance/results.png";
 const Ai = () => {
   return (
