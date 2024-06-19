@@ -5,5 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   assetsInclude: ['**/*.JPG','**/*.glb'],
-  base: "/giant-clam/"
+  // base: "/giant-clam/",
+  base: "/giant-clam/",
+  publicDir:"assets"
 })

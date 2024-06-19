@@ -1,5 +1,5 @@
 import React from "react";
-import backgroundImage from "/src/assets/giant-clam/IMG_6231.jpg";
+import backgroundImage from "/public/giant-clam/IMG_6231.jpg";
 
 const Hero = () => {
   return (

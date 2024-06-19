@@ -1,7 +1,6 @@
 import Navbar from "/src/components/Navbar.jsx";
 import Footer from "/src/components/Footer";
 import { Link } from "react-router-dom";
-import rov from "/src/assets/rov.png";
 const FirstJourney = () => {
   return (
     <>
@@ -25,7 +24,7 @@ const FirstJourney = () => {
             <div className="text-center mt-5">Unknown</div>
             <div style={{ height: "500px", width: "800px" }} className="mt-5">
               <img
-                src={rov}
+                src="/rov.png"
                 alt=""
                 style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 className="rounded-lg"

@@ -5,13 +5,13 @@ import { Autoplay, Pagination } from "swiper/modules";
 import "/src/css/ClamColor.css";
 
 // Import images
-import giantClam1 from "/src/assets/giant-clam/P9110765.JPG";
-import giantClam2 from "/src/assets/giant-clam/P8130932.JPG";
-import giantClam3 from "/src/assets/giant-clam/P6020111.JPG";
-import giantClam4 from "/src/assets/giant-clam/IMG_6231.jpg";
-import giantClam5 from "/src/assets/giant-clam/IMG_2910.JPG";
-import giantClam6 from "/src/assets/giant-clam/P3190491.JPG";
-import mantleDetail from "/src/assets/giant-clam/mantle.jpg";
+import giantClam1 from "/public/giant-clam/P9110765.JPG";
+import giantClam2 from "/public/giant-clam/P8130932.JPG";
+import giantClam3 from "/public/giant-clam/P6020111.JPG";
+import giantClam4 from "/public/giant-clam/IMG_6231.jpg";
+import giantClam5 from "/public/giant-clam/IMG_2910.JPG";
+import giantClam6 from "/public/giant-clam/P3190491.JPG";
+import mantleDetail from "/public/giant-clam/mantle.jpg";
 
 const ClamColor = () => {
   return (

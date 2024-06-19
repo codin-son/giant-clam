@@ -1,4 +1,4 @@
-import clam from "/src/assets/giant-clam/P9110765.JPG";
+import clam from "/public/giant-clam/P9110765.JPG";
 const Hero = () => {
   return (
     <>

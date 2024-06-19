@@ -1,7 +1,6 @@
 import Navbar from "/src/components/Navbar.jsx";
 import Footer from "/src/components/Footer";
 import { Link } from "react-router-dom";
-import firsttrip from "/src/assets/first-trip.jpg";  
 const SecondJourney = () => {
   return (
     <>
@@ -23,7 +22,7 @@ const SecondJourney = () => {
             <div className="text-center mt-5">29 Jun 2023</div>
             <div style={{ height: "500px", width: "800px" }} className="mt-5">
               <img
-                src={firsttrip}
+                src="/first-trip.jpg"
                 alt=""
                 style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 className="rounded-lg"

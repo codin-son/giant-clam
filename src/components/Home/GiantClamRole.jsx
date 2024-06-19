@@ -75,7 +75,7 @@ const GiantClamRole = () => {
               </div>
             </div>
             <div className="xl:col-span-2 flex  justify-center items-center">
-                <img src="src/assets/giant-clam/giant-clam-2.JPG" className="rounded-xl h-full"/>
+                <img src="/giant-clam/giant-clam-2.JPG" className="rounded-xl h-full"/>
             </div>
           </div>
         </div>

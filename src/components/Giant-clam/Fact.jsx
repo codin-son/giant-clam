@@ -1,9 +1,4 @@
-import seaweed from "/src/assets/seaweed.png";
-import scalability from "/src/assets/scalability.png";
-import underwater from "/src/assets/underwater.png";
-import rgb from "/src/assets/rgb.png";
-import fish from "/src/assets/fish.png";
-import sandClock from "/src/assets/sand-clock.png";
+
 
 
 const Fact = () => {
@@ -21,7 +16,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src={seaweed} />
+                  <img src="/seaweed.png" />
                 </div>
               </div>
             </div>

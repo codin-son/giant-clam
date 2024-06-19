@@ -1,10 +1,9 @@
 import "@google/model-viewer/";
-import thruster from "/src/assets/3d/thruster2.glb";
 const ThrusterViewer = () => {
   return (
     <>
       <model-viewer
-        src={thruster}
+        src="/3d/thruster2.glb"
         alt="3D Model"
         auto-rotate
         camera-controls

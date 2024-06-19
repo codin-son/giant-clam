@@ -12,7 +12,7 @@ const NctfObjective = () => {
                 <div className="grid gap-4 grid-rows-2 h-full ">
                   <a className="group relative flex flex-col rounded-lg  justify-center items-center p-3 sm:p-3 md:p-5 lg:p-5 xl:p-10 h-full bg-cyan-900">
                     <img
-                      src="src/assets/community.png"
+                      src="/community.png"
                       alt=""
                       style={{ width: "40%" }}
                     />
@@ -23,7 +23,7 @@ const NctfObjective = () => {
                   </a>
                   <a className="group relative flex flex-col rounded-lg  justify-center items-center p-3 sm:p-3 md:p-5 lg:p-5 xl:p-10 h-full bg-cyan-900">
                     <img
-                      src="src/assets/3d-business-woman-scientist-working.png"
+                      src="/3d-business-woman-scientist-working.png"
                       alt=""
                       style={{ width: "40%" }}
                     />
@@ -41,7 +41,7 @@ const NctfObjective = () => {
                       Support Sustainable Forest Management.
                     </p>
                     <img
-                      src="src/assets/3d-casual-life-trip-to-mountains.png"
+                      src="/3d-casual-life-trip-to-mountains.png"
                       alt=""
                       style={{ width: "30%" }}
                       className=""
@@ -54,7 +54,7 @@ const NctfObjective = () => {
                         long-term natural resource management.
                       </p>
                       <img
-                        src="src/assets/3d-business-young-man-and-woman-looking-at-plan.png"
+                        src="src/3d-business-young-man-and-woman-looking-at-plan.png"
                         alt=""
                         style={{ width: "25%" }}
                         className=""
@@ -67,7 +67,7 @@ const NctfObjective = () => {
                       managing natural resources and conserving biodiversity.
                     </p>
                     <img
-                      src="src/assets/3d-fluency-fund-accounting.png"
+                      src="src/3d-fluency-fund-accounting.png"
                       alt=""
                       style={{ width: "25%" }}
                       className=""

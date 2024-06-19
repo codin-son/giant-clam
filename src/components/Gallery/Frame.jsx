@@ -1,9 +1,9 @@
-import pic1 from "/src/assets/giant-clam/Giant_clam_detail.jpg";
-import pic2 from "/src/assets/giant-clam/giant-clam.jpg";
-import pic3 from "/src/assets/giant-clam/IMG_2910.JPG";
-import pic4 from "/src/assets/giant-clam/IMG_6231.jpg";
-import pic5 from "/src/assets/giant-clam/mantle.jpg";
-import pic6 from "/src/assets/giant-clam/P3190491.JPG";
+import pic1 from "/public/giant-clam/Giant_clam_detail.jpg";
+import pic2 from "/public/giant-clam/giant-clam.jpg";
+import pic3 from "/public/giant-clam/IMG_2910.JPG";
+import pic4 from "/public/giant-clam/IMG_6231.jpg";
+import pic5 from "/public/giant-clam/mantle.jpg";
+import pic6 from "/public/giant-clam/P3190491.JPG";
 
 const Frame = () => {
   return (
