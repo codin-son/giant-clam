@@ -65,7 +65,7 @@ const RovFeature = () => {
               tether system for real-time communication and power
             </div>
             <img
-              src="/gif/sammy-no-connection-ezgif.com-crop.gif"
+              src="/giant-clam/gif/sammy-no-connection-ezgif.com-crop.gif"
               alt=""
               style={{ width: "70%", height: "70%" }}
             />
@@ -124,7 +124,7 @@ const RovFeature = () => {
             </div>
             <div>
               <img
-                src="/gif/qgroundcontrol.gif"
+                src="/giant-clam/gif/qgroundcontrol.gif"
                 alt=""
                 className="rounded-xl"
               />

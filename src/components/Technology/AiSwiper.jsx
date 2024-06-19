@@ -20,14 +20,14 @@ const AiSwiper = () =>{
             modules={[Autoplay, Pagination]}
             className="mySwiper rounded-lg"
           >
-            <SwiperSlide><img src="/detected-gc/1.jpg" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/2.jpg" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/3.JPG" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/4.JPG" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/5.JPG" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/6.JPG" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/7.JPG" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/8.JPG" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/giant-clam/detected-gc/1.jpg" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/giant-clam/detected-gc/2.jpg" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/giant-clam/detected-gc/3.JPG" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/giant-clam/detected-gc/4.JPG" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/giant-clam/detected-gc/5.JPG" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/giant-clam/detected-gc/6.JPG" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/giant-clam/detected-gc/7.JPG" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/giant-clam/detected-gc/8.JPG" alt="" /></SwiperSlide>
           </Swiper>
         </div>
       );

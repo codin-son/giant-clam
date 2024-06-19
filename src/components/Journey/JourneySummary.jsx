@@ -9,7 +9,7 @@ const JourneySummary = () => {
             style={{ width: "748px", height: "561px" }}
           >
             <img
-              src="/rov.png"
+              src="/giant-clam/rov.png"
               alt=""
               style={{ width: "100%", height: "100%" }}
               className="rounded-xl"
@@ -56,7 +56,7 @@ const JourneySummary = () => {
           </div>
           <div>
             <img
-              src="/first-trip.jpg"
+              src="/giant-clam/first-trip.jpg"
               alt=""
               className="rounded-lg"
             />
@@ -64,7 +64,7 @@ const JourneySummary = () => {
         </div>
         <div className="grid grid-cols-2 gap-10 items-center justify-center">
           <div>
-            <img src="/a2tech.jpg" alt="" className="rounded-lg" />
+            <img src="/giant-clam/a2tech.jpg" alt="" className="rounded-lg" />
           </div>
           <div>
             <h2 className="text-4xl font-bold text-white">

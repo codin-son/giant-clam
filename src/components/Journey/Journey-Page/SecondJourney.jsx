@@ -22,7 +22,7 @@ const SecondJourney = () => {
             <div className="text-center mt-5">29 Jun 2023</div>
             <div style={{ height: "500px", width: "800px" }} className="mt-5">
               <img
-                src="/first-trip.jpg"
+                src="/giant-clam/first-trip.jpg"
                 alt=""
                 style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 className="rounded-lg"

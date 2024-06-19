@@ -18,7 +18,7 @@ const ProjectPartner = () => {
             <div className="card bg-base-300  border-2">
               <figure className="px-5 sm:px-5 md:px-5 lg:px-10 xl:px-10 pt-5 sm:pt-5 md:pt-5 lg:pt-10 xl:pt-10">
                 <img
-                  src="/malaysia.png"
+                  src="/giant-clam/malaysia.png"
                   alt="Kerajaan Malaysia"
                   className="rounded-xl h-20 sm:h-20 md:h-40 lg:h-40 xl:h-40 object-contain"
                 />
@@ -30,7 +30,7 @@ const ProjectPartner = () => {
             <div className="card bg-base-300  border-2">
               <figure className="px-5 sm:px-5 md:px-10 lg:px-10 xl:px-10 pt-5 sm:pt-5 md:pt-10 lg:pt-10 xl:pt-10">
                 <img
-                  src="/cairo.png"
+                  src="/giant-clam/cairo.png"
                   alt="cairo"
                   className="rounded-xl h-20 sm:h-20 md:h-40 lg:h-40 xl:h-40 object-contain"
                 />
@@ -42,7 +42,7 @@ const ProjectPartner = () => {
             <div className="card bg-base-300  border-2">
               <figure className="px-5 sm:px-5 md:px-10 lg:px-10 xl:px-10 pt-5 sm:pt-5 md:pt-10 lg:pt-10 xl:pt-10">
                 <img
-                  src="/nctf.png"
+                  src="/giant-clam/nctf.png"
                   alt="NCTF"
                   className="rounded-xl h-20 sm:h-20 md:h-40 lg:h-40 xl:h-40 object-contain"
                 />
@@ -56,7 +56,7 @@ const ProjectPartner = () => {
             <div className="card bg-base-300  border-2">
               <figure className="px-5 sm:px-5 md:px-10 lg:px-10 xl:px-10 pt-5 sm:pt-5 md:pt-10 lg:pt-10 xl:pt-10">
                 <img
-                  src="/mybis.png"
+                  src="/giant-clam/mybis.png"
                   alt="MYBIS"
                   className="rounded-xl h-20 sm:h-20 md:h-40 lg:h-40 xl:h-40 object-contain"
                 />
@@ -70,7 +70,7 @@ const ProjectPartner = () => {
             <div className="card bg-base-300  border-2">
               <figure className="px-5 sm:px-5 md:px-10 lg:px-10 xl:px-10 pt-5 sm:pt-5 md:pt-10 lg:pt-10 xl:pt-10">
                 <img
-                  src="/reefcheck.png"
+                  src="/giant-clam/reefcheck.png"
                   alt="REEF CHECK MALAYSIA"
                   className="rounded-xl h-20 sm:h-20 md:h-40 lg:h-40 xl:h-40 object-contain"
                 />
@@ -82,7 +82,7 @@ const ProjectPartner = () => {
             <div className="card bg-base-300  border-2">
               <figure className="px-5 sm:px-5 md:px-10 lg:px-10 xl:px-10 pt-5 sm:pt-5 md:pt-10 lg:pt-10 xl:pt-10">
                 <img
-                  src="/utm.png"
+                  src="/giant-clam/utm.png"
                   alt="UTM"
                   className="rounded-xl h-20 sm:h-20 md:h-40 lg:h-40 xl:h-40 object-contain"
                 />

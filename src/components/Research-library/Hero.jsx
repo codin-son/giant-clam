@@ -6,7 +6,7 @@ const Hero = () => {
       <div
         className="py-40"
         style={{
-          backgroundImage: `url(/giant-clam/IMG_6231.jpg)`,
+          backgroundImage: `url(/giant-clam/giant-clam/IMG_6231.jpg)`,
           height: "400px",
           width: "100%",
           backgroundRepeat: "no-repeat",

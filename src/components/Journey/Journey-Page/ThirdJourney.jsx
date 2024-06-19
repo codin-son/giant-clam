@@ -25,7 +25,7 @@ const ThirdJourney = () => {
             <div className="text-center mt-5">2 September 2023</div>
             <div style={{ height: "500px", width: "800px" }} className="mt-5">
               <img
-                src="/a2tech.jpg"
+                src="/giant-clam/a2tech.jpg"
                 alt=""
                 style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 className="rounded-lg"

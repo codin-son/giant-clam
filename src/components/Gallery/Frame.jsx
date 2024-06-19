@@ -10,7 +10,7 @@ const Frame = () => {
                 <img
                   alt="gallery"
                   className="block h-full w-full rounded-lg object-cover object-center"
-                  src="/giant-clam/Giant_clam_detail.jpg"
+                  src="/giant-clam/giant-clam/Giant_clam_detail.jpg"
                 />
               </div>
             </div>
@@ -19,7 +19,7 @@ const Frame = () => {
                 <img
                   alt="gallery"
                   className="block h-full w-full rounded-lg object-cover object-center"
-                  src="/giant-clam/giant-clam.jpg"
+                  src="/giant-clam/giant-clam/giant-clam.jpg"
                 />
               </div>
             </div>
@@ -28,7 +28,7 @@ const Frame = () => {
                 <img
                   alt="gallery"
                   className="block h-full w-full rounded-lg object-cover object-center"
-                  src="/giant-clam/IMG_2910.JPG"
+                  src="/giant-clam/giant-clam/IMG_2910.JPG"
                 />
               </div>
             </div>
@@ -37,7 +37,7 @@ const Frame = () => {
                 <img
                   alt="gallery"
                   className="block h-full w-full rounded-lg object-cover object-center"
-                  src="/giant-clam/IMG_6231.jpg"
+                  src="/giant-clam/giant-clam/IMG_6231.jpg"
                 />
               </div>
             </div>
@@ -46,7 +46,7 @@ const Frame = () => {
                 <img
                   alt="gallery"
                   className="block h-full w-full rounded-lg object-cover object-center"
-                  src="/giant-clam/mantle.jpg"
+                  src="/giant-clam/giant-clam/mantle.jpg"
                 />
               </div>
             </div>
@@ -55,7 +55,7 @@ const Frame = () => {
                 <img
                   alt="gallery"
                   className="block h-full w-full rounded-lg object-cover object-center"
-                  src="/giant-clam/P3190491.JPG"
+                  src="/giant-clam/giant-clam/P3190491.JPG"
                 />
               </div>
             </div>

@@ -24,7 +24,7 @@ const FirstJourney = () => {
             <div className="text-center mt-5">Unknown</div>
             <div style={{ height: "500px", width: "800px" }} className="mt-5">
               <img
-                src="/rov.png"
+                src="/giant-clam/rov.png"
                 alt=""
                 style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 className="rounded-lg"

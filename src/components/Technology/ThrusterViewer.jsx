@@ -3,7 +3,7 @@ const ThrusterViewer = () => {
   return (
     <>
       <model-viewer
-        src="/3d/thruster2.glb"
+        src="/giant-clam/3d/thruster2.glb"
         alt="3D Model"
         auto-rotate
         camera-controls

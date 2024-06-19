@@ -41,7 +41,7 @@ const GiantClamVulnerable = () => {
             <div className="card bg-primary shadow-xl">
               <figure className="px-5 sm:px-5 md:px-10 lg:px-5 xl:px-10 pt-5 sm:pt-5 md:pt-10 lg:pt-5 xl:pt-10">
                 <img
-                  src="/coral-destruction.jpg"
+                  src="/giant-clam/coral-destruction.jpg"
                   alt="Coral Destruction"
                   className="rounded-xl h-72 object-cover"
                 />

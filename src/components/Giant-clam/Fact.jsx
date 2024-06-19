@@ -16,7 +16,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src="/seaweed.png" />
+                  <img src="/giant-clam/seaweed.png" />
                 </div>
               </div>
             </div>
@@ -32,7 +32,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src="/scalability.png" />
+                  <img src="/giant-clam/scalability.png" />
                 </div>
               </div>
             </div>
@@ -48,7 +48,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src="/underwater.png"/>
+                  <img src="/giant-clam/underwater.png"/>
                 </div>
               </div>
             </div>
@@ -64,7 +64,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src="/rgb.png" />
+                  <img src="/giant-clam/rgb.png" />
                 </div>
               </div>
             </div>
@@ -79,7 +79,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src="/fish.png" />
+                  <img src="/giant-clam/fish.png" />
                 </div>
               </div>
             </div>
@@ -96,7 +96,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src="/sand-clock.png" />
+                  <img src="/giant-clam/sand-clock.png" />
                 </div>
               </div>
             </div>

@@ -12,7 +12,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src="/giant-clam/960px-Hippopus_hippopus_Vanuatu_01.jpg"
+              src="/giant-clam/giant-clam/960px-Hippopus_hippopus_Vanuatu_01.jpg"
               alt="Giant Clam"
               className="rounded-xl"
             />
@@ -78,7 +78,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src="/giant-clam/Tridacna_derasa_1.jpg"
+              src="/giant-clam/giant-clam/Tridacna_derasa_1.jpg"
               alt="Giant Clam"
               className="rounded-xl"
             />
@@ -109,7 +109,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src="/giant-clam/887px-Giant_clam_(Tridacna_gigas)_Michaelmas_Cay.jpg"
+              src="/giant-clam/giant-clam/887px-Giant_clam_(Tridacna_gigas)_Michaelmas_Cay.jpg"
               alt="Giant Clam"
               className="rounded-xl"
             />
@@ -126,7 +126,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src="/giant-clam/tridacna-tevoroa-2.jpg"
+              src="/giant-clam/giant-clam/tridacna-tevoroa-2.jpg"
               alt="Giant Clam"
               className="rounded-xl"
             />
@@ -137,7 +137,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src="/giant-clam/Tridacna_squamosa_Réunion.jpg"
+              src="/giant-clam/giant-clam/Tridacna_squamosa_Réunion.jpg"
               alt="Giant Clam"
               className="rounded-xl"
             />
