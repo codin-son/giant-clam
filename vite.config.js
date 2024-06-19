@@ -6,4 +6,5 @@ export default defineConfig({
   plugins: [react()],
   assetsInclude: ['**/*.JPG','**/*.glb'],
   base: "/giant-clam/",
+  publicDir: "public",
 })
