@@ -1,5 +1,4 @@
 import React from "react";
-import backgroundImage from "/public/giant-clam/IMG_6231.jpg";
 
 const Hero = () => {
   return (
@@ -7,7 +6,7 @@ const Hero = () => {
       <div
         className="py-40"
         style={{
-          backgroundImage: `url(${backgroundImage})`,
+          backgroundImage: `url(/giant-clam/IMG_6231.jpg)`,
           height: "400px",
           width: "100%",
           backgroundRepeat: "no-repeat",

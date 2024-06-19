@@ -1,9 +1,3 @@
-import pic1 from "/public/giant-clam/Giant_clam_detail.jpg";
-import pic2 from "/public/giant-clam/giant-clam.jpg";
-import pic3 from "/public/giant-clam/IMG_2910.JPG";
-import pic4 from "/public/giant-clam/IMG_6231.jpg";
-import pic5 from "/public/giant-clam/mantle.jpg";
-import pic6 from "/public/giant-clam/P3190491.JPG";
 
 const Frame = () => {
   return (
@@ -16,7 +10,7 @@ const Frame = () => {
                 <img
                   alt="gallery"
                   className="block h-full w-full rounded-lg object-cover object-center"
-                  src={pic1}
+                  src="/giant-clam/Giant_clam_detail.jpg"
                 />
               </div>
             </div>
@@ -25,7 +19,7 @@ const Frame = () => {
                 <img
                   alt="gallery"
                   className="block h-full w-full rounded-lg object-cover object-center"
-                  src={pic2}
+                  src="/giant-clam/giant-clam.jpg"
                 />
               </div>
             </div>
@@ -34,7 +28,7 @@ const Frame = () => {
                 <img
                   alt="gallery"
                   className="block h-full w-full rounded-lg object-cover object-center"
-                  src={pic3}
+                  src="/giant-clam/IMG_2910.JPG"
                 />
               </div>
             </div>
@@ -43,7 +37,7 @@ const Frame = () => {
                 <img
                   alt="gallery"
                   className="block h-full w-full rounded-lg object-cover object-center"
-                  src={pic4}
+                  src="/giant-clam/IMG_6231.jpg"
                 />
               </div>
             </div>
@@ -52,7 +46,7 @@ const Frame = () => {
                 <img
                   alt="gallery"
                   className="block h-full w-full rounded-lg object-cover object-center"
-                  src={pic5}
+                  src="/giant-clam/mantle.jpg"
                 />
               </div>
             </div>
@@ -61,7 +55,7 @@ const Frame = () => {
                 <img
                   alt="gallery"
                   className="block h-full w-full rounded-lg object-cover object-center"
-                  src={pic6}
+                  src="/giant-clam/P3190491.JPG"
                 />
               </div>
             </div>

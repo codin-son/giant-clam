@@ -21,7 +21,7 @@ const RovCustomSwiper = () => {
             style={{ width: "70%", height: "70%" }}
           >
             <SwiperSlide className='object-fill'><img src="/rov-custom/custom1.jpg" alt="" className='h-full object-fill' /></SwiperSlide>
-            <SwiperSlide className='object-fill'><img src="/rov-custom/custom2.jpg" alt="" className='h-full object-fill' /></SwiperSlide>
+            <SwiperSlide className='object-fill'><img src="/rov-custom/custom2.png" alt="" className='h-full object-fill' /></SwiperSlide>
             <SwiperSlide className='object-fill'><img src="/rov-custom/custom3.jpg" alt="" className='h-full object-fill' /></SwiperSlide>
           </Swiper>
   </div>);

@@ -32,7 +32,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src={scalability} />
+                  <img src="/scalability.png" />
                 </div>
               </div>
             </div>
@@ -48,7 +48,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src={underwater}/>
+                  <img src="/underwater.png"/>
                 </div>
               </div>
             </div>
@@ -64,7 +64,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src={rgb} />
+                  <img src="/rgb.png" />
                 </div>
               </div>
             </div>
@@ -79,7 +79,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src={fish} />
+                  <img src="/fish.png" />
                 </div>
               </div>
             </div>
@@ -96,7 +96,7 @@ const Fact = () => {
             <div className="avatar flex justify-center ">
               <div className="bg-white p-6 rounded-full">
                 <div className="w-24">
-                  <img src={sandClock} />
+                  <img src="/sand-clock.png" />
                 </div>
               </div>
             </div>

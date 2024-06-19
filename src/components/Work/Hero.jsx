@@ -32,7 +32,7 @@ const Hero = () => {
             </div>
           </div>
           <div className="order-1 lg:order-2 xl:order-1 px-5 sm:px-5 md:px-5 lg:px-0 ">
-            <img src="../a2tech.jpg" alt="hero" className="rounded-xl "/>
+            <img src="/a2tech.jpg" alt="hero" className="rounded-xl "/>
           </div>
         </div>
       </div>

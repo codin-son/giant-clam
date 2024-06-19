@@ -22,12 +22,12 @@ const AiSwiper = () =>{
           >
             <SwiperSlide><img src="/detected-gc/1.jpg" alt="" /></SwiperSlide>
             <SwiperSlide><img src="/detected-gc/2.jpg" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/3.jpg" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/4.jpg" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/5.jpg" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/6.jpg" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/7.jpg" alt="" /></SwiperSlide>
-            <SwiperSlide><img src="/detected-gc/8.jpg" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/detected-gc/3.JPG" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/detected-gc/4.JPG" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/detected-gc/5.JPG" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/detected-gc/6.JPG" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/detected-gc/7.JPG" alt="" /></SwiperSlide>
+            <SwiperSlide><img src="/detected-gc/8.JPG" alt="" /></SwiperSlide>
           </Swiper>
         </div>
       );

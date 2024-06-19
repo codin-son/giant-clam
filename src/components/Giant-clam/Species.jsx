@@ -1,8 +1,3 @@
-import hipopushipopus from "/public/giant-clam/960px-Hippopus_hippopus_Vanuatu_01.jpg";
-import tridacna_derasa from "/public/giant-clam/Tridacna_derasa_1.jpg";
-import tridacna_gigas from "/public/giant-clam/887px-Giant_clam_(Tridacna_gigas)_Michaelmas_Cay.jpg";
-import tridacna_mbalavuana from "/public/giant-clam/tridacna-tevoroa-2.jpg";
-import tridacna_squamosa from "/public/giant-clam/Tridacna_squamosa_Réunion.jpg";
 const Species = () => {
   return (
     <>
@@ -17,7 +12,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src={hipopushipopus}
+              src="/giant-clam/960px-Hippopus_hippopus_Vanuatu_01.jpg"
               alt="Giant Clam"
               className="rounded-xl"
             />
@@ -83,7 +78,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src={tridacna_derasa}
+              src="/giant-clam/Tridacna_derasa_1.jpg"
               alt="Giant Clam"
               className="rounded-xl"
             />
@@ -114,7 +109,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src={tridacna_gigas}
+              src="/giant-clam/887px-Giant_clam_(Tridacna_gigas)_Michaelmas_Cay.jpg"
               alt="Giant Clam"
               className="rounded-xl"
             />
@@ -131,7 +126,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src={tridacna_mbalavuana}
+              src="/giant-clam/tridacna-tevoroa-2.jpg"
               alt="Giant Clam"
               className="rounded-xl"
             />
@@ -142,7 +137,7 @@ const Species = () => {
           <div className="">
             <img
             style={{width: "100%",height: "90%",}}
-              src={tridacna_squamosa}
+              src="/giant-clam/Tridacna_squamosa_Réunion.jpg"
               alt="Giant Clam"
               className="rounded-xl"
             />

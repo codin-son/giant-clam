@@ -54,7 +54,7 @@ const NctfObjective = () => {
                         long-term natural resource management.
                       </p>
                       <img
-                        src="src/3d-business-young-man-and-woman-looking-at-plan.png"
+                        src="/3d-business-young-man-and-woman-looking-at-plan.png"
                         alt=""
                         style={{ width: "25%" }}
                         className=""
@@ -67,7 +67,7 @@ const NctfObjective = () => {
                       managing natural resources and conserving biodiversity.
                     </p>
                     <img
-                      src="src/3d-fluency-fund-accounting.png"
+                      src="/3d-fluency-fund-accounting.png"
                       alt=""
                       style={{ width: "25%" }}
                       className=""
